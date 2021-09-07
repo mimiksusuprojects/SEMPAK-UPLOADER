@@ -23,9 +23,9 @@ async def start(client, message):
     await message.reply_text(
         text=f"Hello {message.from_user.first_name}!\n<b>I am Telegram to telegra.ph Image Uploader Bot</b>\n\n▷ Just give me a media under 5MB.\n▷ Then I will download it.\n▷ I will then upload it to the telegra.ph link.",
         disable_web_page_preview=True,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="👥 Group", url=f"https://t.me/iZaute/5"), InlineKeyboardButton(text="Channel 📢", url=f"https://t.me/iZaute/6"), ],
-                                           [InlineKeyboardButton(text="🤫 Source", url=f"https://github.com/ZauteKm/Image-Uploader"), InlineKeyboardButton(text="GitHup 🤪", url=f"https://githup.com/ZauteKm"), InlineKeyboardButton(text="Bot Lists 🤖", url=f"https://t.me/iZaute/8"),],
-                                           [InlineKeyboardButton(text="⚜️ Subscribe Now YouTube ⚜️", url=f"https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ")]])
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="☠︎︎ 𝐌𝐢𝐦𝐢𝐤 𝐒𝐮𝐬𝐮 𝐀𝐥𝐢𝐚𝐧𝐬𝐢 ☠︎︎", url=f"https://t.me/ms_aliansi"), InlineKeyboardButton(text="☠︎︎𝐌𝐬 𝐒𝐭𝐨𝐫𝐲☠︎︎", url=f"https://t.me/msstory_ch"),],
+                                           [InlineKeyboardButton(text="☠︎︎ 𝐑𝐞𝐩𝐨 ☠︎︎", url=f"https://github.com/mimiksusuprojects/SEMPAK-UPLOADER"),],
+                                           [InlineKeyboardButton(text="☠︎︎ 𝐎𝐰𝐧𝐞𝐫 ☠︎︎", url=f"https://t.me/Signatureofthehero")]])
         )
 
 
@@ -41,7 +41,7 @@ async def getimage(client, message):
     try:
         response = upload_file(img_path)
     except Exception as error:
-        await dwn.edit_text(f"<b>Oops something went wrong\n Please ▷Contact @ZauteBot.</b>")
+        await dwn.edit_text(f"<b>Oops something went wrong\n Please ▷Contact @signatureofthehero.</b>")
         return
     await dwn.edit_text(
         text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>,\n\n<b>▷ Please Subscribe</b> ❤️ [@ZauteKm](https://t.me/iZaute/6)",
