@@ -22,7 +22,7 @@ Libraries used: => Pyrogram => Telegraph
 <img src="https://telegra.ph/file/ed4ee5caf1a3ba59a1f74.png" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://t.me/ms_aliansi"><img src="https://img.shields.io/badge/JOINED-MIMIK-SUSU.svg?logo=telegram"></a>
-<a href="https://t.me/Signatureofthehero"><img src="https://img.shields.io/badge/SEMPAK-BESI.svg?logo=telegram"></a>
+<a href="https://t.me/Signatureofthehero"><img src="https://img.shields.io/badge/OWNER-M.svg?logo=telegram"></a>
 <a href="https://t.me/msstory_ch"><img src="https://img.shields.io/badge/SUBSCRIBE-MS-STORY.svg?logo=telegram"></a>
 <a href="https://github.com/Zaute-Km"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
 <p align="left">
