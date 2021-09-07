@@ -1,8 +1,8 @@
 {
-  "name": "Telegraph Uploader",
+  "name": "SEMPAK UPLOADER",
   "description": "A bot to Upload Telegram Images to telegraph",
-  "repository": "https://github.com/ZauteKm/Image-Uploader",
-  "logo": "https://telegra.ph/file/fc9136f02541ac58c96e0.jpg",
+  "repository": "https://github.com/mimiksusuprojects/SEMPAK-UPLOADER",
+  "logo": "https://telegra.ph/file/ed4ee5caf1a3ba59a1f74.png",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
      "BOT_TOKEN": {
