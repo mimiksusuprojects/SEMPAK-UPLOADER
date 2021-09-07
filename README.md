@@ -13,7 +13,9 @@
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ☠︎︎
 Press the button Deploy to heroku and give the values for the Creds vars. 👇
 
-[![Deploy](https://img.shields.io/badge/Klik%20di%20sini%ya%kontol-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/mimiksusuprojects/SEMPAK-UPLOADER/tree/master)
+<a href="https://heroku.com/deploy?template=https://github.com/mimiksusuprojects/SEMPAK-UPLOADER.git"><img src="https://img.shields.io/badge/𝐃𝐄𝐏𝐋𝐎𝐘%20𝐒𝐄𝐌𝐏𝐀𝐊-𝐔𝐏𝐋𝐎𝐀𝐃𝐄𝐑%20𝐃𝐈%20𝐒𝐈𝐍𝐈!-black?style=flat&logo=Heroku" width="325" height="50.100" />
+
+
 
 Libraries used: => Pyrogram => Telegraph
 
