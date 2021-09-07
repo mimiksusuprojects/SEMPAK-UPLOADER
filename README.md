@@ -1,6 +1,9 @@
 <img src="https://img.shields.io/badge/🅢︎🅔︎🅜︎🅟︎🅐︎🅚︎%20🅤︎🅟︎🅛︎🅞︎🅐︎🅓︎🅔︎🅡︎-black?style=flat&logo=Heroku" width="325" height="50.100" />
 
 
+<p align="center">
+  <img src="https://telegra.ph/file/074f2590f1127ea3ce00f.png">
+  <img src="https://telegra.ph/file/d23d1d072f2fd90a2424a.png">
 
 > A simplest telegram to telegra.ph image uploader bot
 
